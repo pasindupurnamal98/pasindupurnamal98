@@ -12,7 +12,7 @@ I am Pasindu Purnamal from Sri Lanka, and I am currently reading for BSc(Hons) i
 * 📱 Android Mobile Applicaiton Development (Java) 
  
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindupurnamal98)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindupurnamal98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindupurnamal98&show_icons=true&theme=radical)
 
