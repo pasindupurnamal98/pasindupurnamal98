@@ -15,6 +15,16 @@ I am Pasindu Purnamal from Sri Lanka, and I am currently reading for BSc(Hons) i
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pasindupurnamal98)   -->
 
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/pasindu-purnamal-771801214/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/pasindu_purnamal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100008038485984"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+
+</p>
+
 
 
   
