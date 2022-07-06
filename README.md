@@ -13,6 +13,8 @@ I am Pasindu Purnamal from Sri Lanka, and I am currently studying for a software
 
 ![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindupurnamal98&show_icons=true&theme=radical)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pasindpurnamal98)  
+
 
 
   
