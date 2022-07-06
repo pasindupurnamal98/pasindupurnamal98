@@ -9,5 +9,7 @@ I am Pasindu Purnamal from Sri Lanka, and I am currently studying for a software
 
 ![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindupurnamal98&show_icons=true&theme=radical)
 
+![Profile views](https://gpvc.arturio.dev/pasindupurnamal98)  
+
   
 
