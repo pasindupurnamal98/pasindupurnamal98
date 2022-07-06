@@ -7,9 +7,11 @@ I am Pasindu Purnamal from Sri Lanka, and I am currently studying for a software
 * 🗄️ Mysql ,firebase
 * 📱 Android Mobile Applicaiton Development (Java) 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindupurnamal98)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindupurnamal98&show_icons=true&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/pasindupurnamal98)  
+
 
   
 
