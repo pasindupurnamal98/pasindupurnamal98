@@ -26,10 +26,6 @@ I'm committed to building solutions that create **real-world business impact** t
 
 ---
 
-## 📈 GitHub Stats
-
-![Pasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindupurnamal98&show_icons=true&theme=radical)
-
 ---
 
 ## 🔗 Connect with me
