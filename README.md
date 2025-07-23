@@ -68,8 +68,7 @@ Designing intelligent chatbots, ML pipelines, and data solutions using
 
 ## 🌱 Always Learning
 
-From LLM frameworks to voice personalization models!  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/>
+
 
 ---
 
