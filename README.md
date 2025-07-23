@@ -12,7 +12,7 @@ AI & Data Engineer from 🇱🇰 Sri Lanka, passionate about building production
 
 🔭 **Currently @ [H One Pvt Ltd](https://www.hone.lk/)**  
 Designing intelligent chatbots, ML pipelines, and data solutions using  
-<img src="https://img.shields.io/badge/Azure_AI-0078D4?logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" /> <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" alt="LangGraph Logo" width="40"/> <img src="https://img.shields.io/badge/Microsoft_Fabric-8A1538?logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_AI-0078D4?logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" />  <img src="https://img.shields.io/badge/Microsoft_Fabric-8A1538?logo=microsoft&logoColor=white" />
 
 ---
 
